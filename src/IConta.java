@@ -1,4 +1,6 @@
-
+/**
+ * A interface IConta define os métodos básicos para operações em uma conta bancária.
+ */
 public interface IConta {
 	
 	void sacar(double valor);

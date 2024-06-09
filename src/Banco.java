@@ -1,5 +1,9 @@
 import java.util.List;
 
+/**
+* A classe Banco representa uma entidade bancária que possui um nome
+* e uma lista de contas associadas.
+*/
 public class Banco {
 
 	private String nome;
